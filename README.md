@@ -5,3 +5,6 @@ This project was made for those who are interested in knowing more about Front-e
 ### Languages used
 * HTML
 * CSS
+
+### Website Image
+![Website image](images/site-image.PNG)
