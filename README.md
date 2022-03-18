@@ -7,4 +7,4 @@ This project was made for those who are interested in knowing more about Front-e
 * CSS
 
 ### Website Image
-![Website image](images/site-image.PNG)
+<img src="images/site-image.PNG" alt="Website image" width="400">
